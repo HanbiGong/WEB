@@ -11,7 +11,7 @@ Welcome to the Library API! This API allows users to browse, borrow, and return 
 ### 🛠 Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/library-api.git
+   git clone https://github.com/WEB/library-api.git
 
 2. Navigate into the project folder:
    ```bash
@@ -19,13 +19,15 @@ Welcome to the Library API! This API allows users to browse, borrow, and return 
   
 3. Install dependencies:
    ```bash
-  npm install
+   npm install
   
 4.Start the server:
+  ```bash
   node index.js
   
 5.Open in the browser:
-http://localhost:3000
+   ```bash
+   http://localhost:3000
 
 ### 📄 API Endpoints
 
