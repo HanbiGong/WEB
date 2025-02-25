@@ -14,9 +14,11 @@ Welcome to the Library API! This API allows users to browse, borrow, and return 
    git clone https://github.com/your-repo/library-api.git
 
 2. Navigate into the project folder:
+      ```bash
   cd library-api
-
-3.Install dependencies:
+  
+3. Install dependencies:
+   ```bash
   npm install
   
 4.Start the server:
